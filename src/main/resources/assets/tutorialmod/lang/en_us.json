@@ -1,4 +1,6 @@
 {
   "item.tutorialmod.zircon": "Zircon",
-  "item.tutorialmod.raw_zircon": "Raw_Zircon"
+  "item.tutorialmod.raw_zircon": "Raw_Zircon",
+
+  "itemGroup.tutorialtab": "Zircon Tab"
 }
